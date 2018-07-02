@@ -10,11 +10,11 @@ Pre-trained model [vgg-face.mat](http://www.vlfeat.org/matconvnet/models/vgg-fac
 
 ### Only lip case
 #### origin
-![origin](style_transfer/lip/content.png)
+![origin](lip/content.png)
 #### sytle
-![style](style_transfer/lip/style.png)
+![style](lip/style.png)
 #### result (4900 iterator)
-![res](style_transfer/lip/4900.png)
+![res](lip/4900.png)
 
 
 ### Fully Face case
