@@ -1,7 +1,8 @@
 code based : https://github.com/davidsandberg/facenet<br>
 Pre Traind data : [20180402-114759](https://drive.google.com/open?id=1EXPBSXwTaqrSC0OhUdXNmKSh9qJUQ55-)
 
-Train datas from http://www.cs.sfu.ca/~colour/data/shi_gehler/
+Train datas from http://www.cs.sfu.ca/~colour/data/shi_gehler/<br>
+learn_color_balance.py from https://github.com/opencv/opencv_contrib
 ****
 Peter Gehler and Carsten Rother and Andrew Blake and Tom Minka and Toby Sharp, "Bayesian Color Constancy Revisited,"
 Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition, 2008. 
