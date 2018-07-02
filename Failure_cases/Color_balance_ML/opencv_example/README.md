@@ -14,3 +14,8 @@ color_balance_model.yml is traind with above.
 
 #### white balanced?
 ![fail](zz.jpg)
+
+
+----
+P.S.: <br>
+In doing this, I contribute some of the code. https://github.com/opencv/opencv_contrib/pull/1679
