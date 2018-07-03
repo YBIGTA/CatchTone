@@ -2,10 +2,10 @@
 YbigTa 2018-1 conference 3rd Awards. Catch Your own personal color.
 
 ## Team (**Name order and contribution are irrelevant.**)
-* 김지현 (...) [GitHub](https://github.com/ooojh)
-* 서보아 (...) [GitHub](https://github.com/...) [linkedIn](https://www.linkedin.com/in/...)
+* 김지현 (JiHyun Kim) [GitHub](https://github.com/ooojh)
+* 서보아 (Boa Seo) [GitHub](https://github.com/Vividoer)
 * 송치영 (ChiYoung Song) [GitHub](https://github.com/SongChiYoung) [linkedIn](https://www.linkedin.com/in/치영-송-685671153)
-* 최동민 (...) [GitHub](https://github.com/...) [linkedIn](https://www.linkedin.com/in/...)
+* 최동민 (DongMin Choi) [GitHub](https://github.com/...)
 
 ## References
 
