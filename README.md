@@ -9,7 +9,7 @@ YbigTa 2018-1 conference 3rd Awards. Catch Your own personal color.
 
 ## References
 
-PANTONE Humanae Project : Photography by Angelica Dass
+PANTONE Humanae Project (Photography by Angelica Dass): http://humanae.tumblr.com/  
 
 PCCS(Practical Color Coordinate System) from Japan Color Research Instutute (http://www.jcri.jp/JCRI/)
 
