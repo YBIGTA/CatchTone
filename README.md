@@ -23,7 +23,9 @@ PANTONE Humanae Project (Photography by Angelica Dass): http://humanae.tumblr.co
 PCCS(Practical Color Coordinate System) from Japan Color Research Instutute (http://www.jcri.jp/JCRI/)
 
 로레알, https://www.lorealparisusa.com/
+
 랑콤, https://www.lancome-usa.com/
+
 메이블린, https://www.maybelline.com/
 
 Opencv - dlib, https://www.pyimagesearch.com/2017/04/03/facial-landmarks-dlib-opencv-python/
