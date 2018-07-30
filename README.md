@@ -1,5 +1,5 @@
 # CatchTone
-YbigTa 2018-1 conference 3rd Awards. Catch Your own personal color.
+YBigTa 2018-1 Conference 3rd Awards. Catch Your Own Personal Color.
 
 ## Content
 * Objective   
