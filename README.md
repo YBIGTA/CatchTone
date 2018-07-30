@@ -14,7 +14,7 @@ Improvement of accuracy and usability with a quantitative approach to the tradit
 * 김지현 (JiHyun Kim) [GitHub](https://github.com/ooojh)
 * 서보아 (Boa Seo) [GitHub](https://github.com/Vividoer)
 * 송치영 (ChiYoung Song) [GitHub](https://github.com/SongChiYoung) [linkedIn](https://www.linkedin.com/in/치영-송-685671153)
-* 최동민 (DongMin Choi) [GitHub](https://github.com/CDM98)
+* 최동민 (DongMin Choi) [GitHub](https://github.com/ChoiDM) [Tstory](http://cdm98.tistory.com)
 
 ## References
 
