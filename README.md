@@ -11,12 +11,11 @@ Individual personal color analysis and custom color palette through frontal face
 Improvement of accuracy and usability with a quantitative approach to the traditionally qualitative personal color diagnosis  
 
 ## Content
-#### 1. photo Calibration 
-#### 2. Personal Color 
-#### 3. Extracting Color
-#### 4. Palette 
-#### 5. Example
-#### 6. Conclusion 
+ 1. photo Calibration 
+ 2. Personal Color 
+ 4. Palette 
+ 5. Example
+ 6. Conclusion 
 
 ## 1. Photo Calibration 
 
