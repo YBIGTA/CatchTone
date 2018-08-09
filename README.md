@@ -5,9 +5,10 @@ YBigTa 2018-1 Conference 3rd Awards. "Catch Your Own Personal Color."
  1. Abstract 
  2. Photo Calibration 
  3. Personal Color 
- 4. Palette 
- 5. Example
- 6. Conclusion 
+ 4. Extracting Color
+ 5. Palette 
+ 6. Example
+ 7. Conclusion 
  
 ## 1. Abstract
 * Objective   
@@ -35,7 +36,7 @@ Second, we made two clusters of eye brightness to make the criteria of classific
 
 ## 6. Example
 
-## 6. Conclusion 
+## 7. Conclusion 
 
 
 
