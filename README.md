@@ -1,7 +1,7 @@
 # CatchTone
-YBigTa 2018-1 Conference 3rd Awards. Catch Your Own Personal Color.
+YBigTa 2018-1 Conference 3rd Awards. "Catch Your Own Personal Color."
 
-## Content
+## abstract
 * Objective   
 Individual personal color analysis and custom color palette through frontal face image
 * Process    
@@ -9,6 +9,34 @@ Individual personal color analysis and custom color palette through frontal face
 2) Diagnose 4 season types of personal color by Clustering the eye brightness extracted from 1770 face photographs.  
 * Conclusion   
 Improvement of accuracy and usability with a quantitative approach to the traditionally qualitative personal color diagnosis  
+
+## Content
+#### 1. photo Calibration 
+#### 2. Personal Color 
+#### 3. Extracting Color
+#### 4. Palette 
+#### 5. Example
+#### 6. Conclusion 
+
+## 1. Photo Calibration 
+
+## 2. Personal Color 
+
+## 3. Extracting Color
+#### Pantone Humanae Project Photo Crawling
+* 'Pantone Humanae Project' dealt with the natural skin color of human along all regions of the world. The photos has high-definition and make it's overall color tone quite equal to the real tone.  
+the source site: PANTONE Humanae Project (Photography by Angelica Dass): http://humanae.tumblr.com/  
+* We colleted about 1770 pieces of photo from the above site for two objects.   
+First, we compared the skin color extracted with the face cognition of OpenCV and the background color of Humanae Project's  face photo. So, it was proven that the two colors have almost identical values.   
+Second, we made two clusters of eye brightness to make the criteria of classification.
+
+## 4. Palette 
+
+## 5. Example
+
+## 6. Conclusion 
+
+
 
 ## Team (**Name order and contribution are irrelevant.**)
 * 김지현 (JiHyun Kim) [GitHub](https://github.com/ooojh)
